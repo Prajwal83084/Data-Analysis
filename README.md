@@ -1,2 +1,1 @@
-# coding samurai 
-An interactive Excel dashboard visualizing monthly, product-wise, and region-wise sales performance. It highlights top products, profit trends, and regional gaps, enabling quick insights into sales peaks, underperforming regions, and promotional impact. Includes charts, slicers, and KPIs for data-driven decision-making.
+This project analyzes business performance across products, regions, and time to identify key gaps and growth opportunities. It highlights insights on sales trends, profitability, workforce distribution, and operational efficiency using data-driven dashboards. The analysis supports strategic decision-making by providing actionable recommendations for improving performance.
